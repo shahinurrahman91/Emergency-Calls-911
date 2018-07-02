@@ -1,0 +1,9 @@
+Installation of all the necessary libraries through command line are prerequisite for this project to run
+
+install numpy as np
+install pandas as pd
+install datetime
+install matplotlib.pyplot as plt
+install seaborn as sns
+install linear_model from sklearn
+install matplotlib.lines as mlines
